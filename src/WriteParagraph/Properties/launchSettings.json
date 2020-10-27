@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WriteParagraph": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+      "commandLineArgs": "-NoLogo -NoProfile -NoExit -File .\\debug.ps1 WriteParagraph",
+      "workingDirectory": "C:\\repos\\oss\\WriteParagraph"
+    }
+  }
+}
